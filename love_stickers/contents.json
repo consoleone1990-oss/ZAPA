@@ -1,12 +1,7 @@
 {
-    "slider": {
-    "image_url": "https://raw.githubusercontent.com/consoleone1990-oss/ZAPA/refs/heads/main/love_stickers/slider.png",
-    "click_url": "https://play.google.com/store/apps/details?id=com.bomdia.figurinhas.animadas.para_whatsapp",
-    "is_active": true
-  },
-
-  
-  "android_play_store_link": "https://play.google.com/store/apps/developer?id=ZAPA+STICKERS",
+      "slider_image": "slider.png",
+  "slider_url": "https://play.google.com/store/apps/details?id=com.bomdia.figurinhas.animadas.para_whatsapp",
+    "android_play_store_link": "https://play.google.com/store/apps/developer?id=ZAPA+STICKERS",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
