@@ -6,7 +6,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -15,7 +15,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -44,7 +44,7 @@
     },
     {
       "identifier": "2",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -54,7 +54,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -74,7 +74,7 @@
     },
     {
       "identifier": "3",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -84,7 +84,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -105,7 +105,7 @@
       ]
     },    {
       "identifier": "4",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -115,7 +115,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -133,7 +133,7 @@
       ]
     },    {
       "identifier": "5",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -142,7 +142,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -170,7 +170,7 @@
       ]
     },    {
       "identifier": "6",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -179,7 +179,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -202,7 +202,7 @@
       ]
     },    {
       "identifier": "7",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -211,7 +211,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -227,7 +227,7 @@
       ]
     },    {
       "identifier": "8",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -236,7 +236,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -256,7 +256,7 @@
       ]
     },    {
       "identifier": "9",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -265,7 +265,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -285,7 +285,7 @@
       ]
     },    {
       "identifier": "10",
-      "name": "Love Stickers",
+      "name": "Kpop Stickers",
       "publisher": "ZAPA",
       "tray_image_file": "ZAPA_STICKERS.png",
       "image_data_version": "1",
@@ -294,7 +294,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
