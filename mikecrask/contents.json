@@ -1,4 +1,6 @@
 {
+  "slider_image": "slider.png",
+  "slider_url": "https://play.google.com/store/apps/details?id=com.bomdia.figurinhas.animadas.para_whatsapp",
   "android_play_store_link": "https://play.google.com/store/apps/developer?id=ZAPA+STICKERS",
   "ios_app_store_link": "",
   "sticker_packs": [
@@ -13,7 +15,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -47,7 +49,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -78,7 +80,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -108,7 +110,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -137,7 +139,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -166,7 +168,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -195,7 +197,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -240,7 +242,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -279,7 +281,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -306,7 +308,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -343,7 +345,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -370,7 +372,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -393,7 +395,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -424,7 +426,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -454,7 +456,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -492,7 +494,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
@@ -523,7 +525,7 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "is_premium": false,
+      "is_premium": true,
       "stickers": [
         {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
         {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
