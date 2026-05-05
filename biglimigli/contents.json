@@ -688,6 +688,66 @@
         {"image_file": "ZAPA_STICKERS14.webp", "emojis": ["😆","😂"]},
         {"image_file": "ZAPA_STICKERS15.webp", "emojis": ["😩","😰"]}
       ]
+    },
+    {
+      "identifier": "22",
+      "name": "STICKER PACK",
+      "publisher": "ZAPA",
+      "tray_image_file": "ZAPA_STICKERS.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": true,
+      "stickers": [
+        {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
+        {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
+        {"image_file": "ZAPA_STICKERS3.webp", "emojis": ["😆","😂"]},
+        {"image_file": "ZAPA_STICKERS4.webp", "emojis": ["😩","😰"]},
+        {"image_file": "ZAPA_STICKERS5.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS6.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS7.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS8.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS9.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS10.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS11.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS12.webp", "emojis": ["☕","🙂"]},
+        {"image_file": "ZAPA_STICKERS13.webp", "emojis": ["😄","😀"]},
+        {"image_file": "ZAPA_STICKERS14.webp", "emojis": ["😆","😂"]},
+        {"image_file": "ZAPA_STICKERS15.webp", "emojis": ["😩","😰"]}
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "STICKER PACK",
+      "publisher": "ZAPA",
+      "tray_image_file": "ZAPA_STICKERS.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": true,
+      "stickers": [
+        {"image_file": "ZAPA_STICKERS1.webp", "emojis": ["☕","🙂"]},
+        {"image_file": "ZAPA_STICKERS2.webp", "emojis": ["😄","😀"]},
+        {"image_file": "ZAPA_STICKERS3.webp", "emojis": ["😆","😂"]},
+        {"image_file": "ZAPA_STICKERS4.webp", "emojis": ["😩","😰"]},
+        {"image_file": "ZAPA_STICKERS5.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS6.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS7.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS8.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS9.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS10.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS11.webp", "emojis": ["😭","💧"]},
+        {"image_file": "ZAPA_STICKERS12.webp", "emojis": ["☕","🙂"]},
+        {"image_file": "ZAPA_STICKERS13.webp", "emojis": ["😄","😀"]},
+        {"image_file": "ZAPA_STICKERS14.webp", "emojis": ["😆","😂"]},
+        {"image_file": "ZAPA_STICKERS15.webp", "emojis": ["😩","😰"]}
+      ]
     }
   ,
     {
